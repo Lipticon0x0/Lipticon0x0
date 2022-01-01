@@ -1,5 +1,7 @@
-Hi, I’m @Lipticon0x0 /n
+Hi, I’m @Lipticon0x0.
+
 I’m currently learning C++ and Python.
+
 How to reach me: 
 
 Discord norahora<3#6542
