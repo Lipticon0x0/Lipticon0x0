@@ -1,4 +1,4 @@
-Hi, I’m @Lipticon0x0 
+Hi, I’m @Lipticon0x0 /n
 I’m currently learning C++ and Python.
 How to reach me: 
 
